@@ -1,5 +1,5 @@
 <div align="center">
-🔵 SchreinBluetoothManager
+🔵 SchreinBluetoothManager\n
 Advanced Bluetooth Management Library for Arduino
 Robust connectivity with automatic retry mechanisms and smart state management
 
